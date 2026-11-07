@@ -1,1 +1,1 @@
-# UART
+# Basys3用 UARTモジュール
